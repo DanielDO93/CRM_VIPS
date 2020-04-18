@@ -46,7 +46,7 @@ Public Class WebForm2
 
 
         Response.Redirect("http://10.0.0.40/Vips/js.html")
-        ' Response.Redirect("http://localhost:59264/js.html")
+        'Response.Redirect("http://localhost:59264/js.html")
 
     End Sub
 

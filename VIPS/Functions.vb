@@ -495,28 +495,28 @@ Public Class Funciones
 
     Public Function GetPedidoCS(Pedido_OLO As String)
 
-        Dim strConnString As String = ConfigurationManager.ConnectionStrings("VIPS").ConnectionString
-        Dim conexion As New SqlConnection(strConnString)
-        Dim da As New System.Data.SqlClient.SqlDataAdapter
-        Dim ds As New System.Data.DataSet
+        'Dim strConnString As String = ConfigurationManager.ConnectionStrings("VIPS").ConnectionString
+        'Dim conexion As New SqlConnection(strConnString)
+        'Dim da As New System.Data.SqlClient.SqlDataAdapter
+        'Dim ds As New System.Data.DataSet
 
-        Dim cmd As SqlCommand = New SqlCommand("SELECT id FROM [CCS-CLOUD].[CRM_VIPS].[dbo].[SYS_Pedidos] WHERE no_pedido_olo = '" & Pedido_OLO & "'", conexion)
-        cmd.CommandType = CommandType.Text
-        conexion.Open()
-        da.SelectCommand = cmd
-        da.Fill(ds)
-        conexion.Close()
+        'Dim cmd As SqlCommand = New SqlCommand("SELECT id FROM [CCS-CLOUD].[CRM_VIPS].[dbo].[SYS_Pedidos] WHERE no_pedido_olo = '" & Pedido_OLO & "'", conexion)
+        'cmd.CommandType = CommandType.Text
+        'conexion.Open()
+        'da.SelectCommand = cmd
+        'da.Fill(ds)
+        'conexion.Close()
 
-        Try
-            If ds.Tables(0).Rows(0).Item(0).ToString >= 1 Then
-                Return ds.Tables(0).Rows(0).Item(0).ToString
-            Else
-                Return False
-            End If
-        Catch ex As Exception
-            Return False
+        'Try
+        '    If ds.Tables(0).Rows(0).Item(0).ToString >= 1 Then
+        '        Return ds.Tables(0).Rows(0).Item(0).ToString
+        '    Else
+        '        Return False
+        '    End If
+        'Catch ex As Exception
+        '    Return False
 
-        End Try
+        'End Try
 
 
     End Function

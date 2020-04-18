@@ -759,7 +759,7 @@
 
                         <asp:CheckBox ID="CheckBox2" runat="server" Text="Desea Recibir Promociones" AutoPostBack="true" />
                         <asp:CheckBox ID="CheckBox3" runat="server" Text="Tienda Alterna" AutoPostBack="true" />
-                        <asp:CheckBox ID="CheckBox4" runat="server" Text="Fuera de Poligono" AutoPostBack="true" />
+                        <asp:CheckBox ID="CheckBox4" runat="server" Text="Venta Cruzada" AutoPostBack="true" />
                         <br />
                         <br />
                         <div class="form_default" style="margin-left: -50px;">

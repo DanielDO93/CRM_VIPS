@@ -71,3 +71,36 @@ C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS\VIPS\obj\Release\VIPS.vbproj.CopyC
 C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS\VIPS\obj\Release\VIPS.dll
 C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS\VIPS\obj\Release\VIPS.xml
 C:\Users\RICARDO GM\Documents\GitHub\CRM_VIPS\VIPS\obj\Release\VIPS.pdb
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\CRM\Interaccion.aspx
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\Inbound\Tipificacion.aspx
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\CRM\Interaccion.aspx.designer.vb
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\Inbound\Tipificacion.aspx.designer.vb
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\CRM\Interaccion.aspx.vb
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\Inbound\Tipificacion.aspx.vb
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\VIPS.dll.config
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\VIPS.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\VIPS.pdb
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\VIPS.xml
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\Microsoft.ReportViewer.Common.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\Newtonsoft.Json.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\AjaxMin.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\Microsoft.SqlServer.Types.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\Newtonsoft.Json.xml
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\de\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\es\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\fr\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\it\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\ja\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\ko\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\pt\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\ru\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\bin\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\obj\Release\VIPS.vbprojAssemblyReference.cache
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\obj\Release\VIPS.Resources.resources
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\obj\Release\VIPS.vbproj.GenerateResource.cache
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\obj\Release\VIPS.vbproj.CoreCompileInputs.cache
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\obj\Release\VIPS.vbproj.CopyComplete
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\obj\Release\VIPS.dll
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\obj\Release\VIPS.xml
+\\Mac\Home\CCS\Desarrollo\CRM_VIPS\VIPS\obj\Release\VIPS.pdb

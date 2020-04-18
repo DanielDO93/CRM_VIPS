@@ -25,7 +25,7 @@
             Response.Cookies("UserSettings")("MTY") = x.GetUserMTY(Login2.UserName)
 
             Response.Redirect("http://10.0.0.40/Vips/js_CRM.html")
-            ' Response.Redirect("http://localhost:59264/js_CRM.html")
+            'Response.Redirect("http://localhost:59264/js_CRM.html")
 
         End If
     End Sub
